@@ -59,7 +59,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-```sh
   Installation of Git
 
   Installation of NPM
@@ -71,32 +70,30 @@ In order to run this project you need:
   A code editor like Visual Studio Code
 
   Installation of Live Server plugging in Visual Studio Code
-```
 
 ### Setup
 
 Clone this repository to your desired folder:
  
-```sh
   cd to the desire folder
-  paste git clone git@github.com:myaccount/my-project.git
+  
+  paste
+```sh
+  git clone https://github.com/popey17/Hello-World.git
 ```
 
 ### Install
 
 Install this project with:
 
-```sh
-  follow the instruction in [this](https://github.com/microverseinc/linters-config/tree/master/html-css) link to install Linters for html-css.
-```
+  follow the instruction from [this](https://github.com/microverseinc/linters-config/tree/master/html-css) link to install Linters for html-css.  
 
 ### Usage
 
 To run the project, execute the following command:
 
-```sh
   run the HTML file form the live server via VSCode or directly open HTML file.
-```
+  
 ### Run tests
 
 To run tests, run the following command:
