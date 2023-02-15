@@ -26,20 +26,14 @@
 
 # 📖 'Hello Microverse' Project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+Hello Microverse is a project for the Microverse Students to make sure they are fully understand with the professional Github pull and work flow and understanding about linters.
 
-**Hello Microverse** is a...
+## 🛠 Built With <a name="built-with"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
     <li><a href="">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
     <li><a href="">CSS</a></li>
   </ul>
 </details>
@@ -47,21 +41,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- Make understand work flow of GitHub
+- Make Understand Linters
+- Make Understand about the professional template writing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,60 +53,50 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
- gem install rails
+  Installation of Git
+
+  Installation of NPM
+
+  A working browser such as chomre or firefox
+
+  Internet connection
+
+  A code editor like Visual Studio Code
+
+  Installation of Live Server plugging in Visual Studio Code
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
+ 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd to the desire folder
+  paste git clone git@github.com:myaccount/my-project.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  follow the instruction in [this](https://github.com/microverseinc/linters-config/tree/master/html-css) link to install Linters for html-css.
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  run the HTML file form the live server via VSCode or directly open HTML file.
 ```
---->
-
 ### Run tests
 
 To run tests, run the following command:
@@ -170,8 +144,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
