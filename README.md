@@ -84,7 +84,10 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-  follow the instruction from [this](https://github.com/microverseinc/linters-config/tree/master/html-css) link to install Linters for html-css.  
+  run
+  ```sh
+    npm install
+  ```
 
 ### Usage
 
@@ -110,6 +113,8 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] Add some details and nore lessons to understand about GitHub professional usages.
+- [ ] Complete the Site
+- [ ] Add more information for new learners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
