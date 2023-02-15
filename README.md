@@ -105,11 +105,6 @@ To run the project, execute the following command:
 - GitHub: [@popey17](https://github.com/popey17)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/aung-myat-kyaw-3214a8220/)
 
-👤 **Author2**
-
-- GitHub: [@popey17](https://github.com/popey17)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aung-myat-kyaw-3214a8220/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
